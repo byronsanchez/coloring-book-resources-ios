@@ -1,0 +1,42 @@
+        coloring-book-resources-ios r0.1 <http://hackbytes.com>
+
+This is the submodule repository containing resources used by
+"Coloring Book for iOS."  The master repository can be found at:
+
+  http://github.com/byronsanchez/coloring-book-ios
+
+INSTRUCTIONS
+
+  To add this repository to the coloring-book-ios repository as
+  a submodule:
+
+    cd coloring-book-ios
+    git submodule add https://github.com/byronsanchez/coloring-book-resources-ios.git Resources
+    git commit -m 'first commit with submodule coloring-book-resources-ios'
+
+STRUCTURE
+
+  The repository tree structure.
+
+    Images/     - contains images for various screen sizes and
+                  orientations.
+
+    NIBs/       - contains window xml files for various screen
+                  sizes. These xml files define the structure of
+                  the design for each window.
+
+    Sounds/     - contains resources that are not screen-size or
+                  orientation specific.
+
+LICENSE
+ 
+ The copyright and license terms for everything in this repository is
+ explained in detail in the following repository's COPYRIGHT file:
+
+   http://github.com/byronsanchez/coloring-book-ios
+
+ Direct link:
+  
+   https://github.com/byronsanchez/coloring-book-ios/blob/master/COPYRIGHT
+
+ Read the aforementioned COPYRIGHT file carefully.
