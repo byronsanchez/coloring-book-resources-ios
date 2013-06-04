@@ -25,7 +25,7 @@ STRUCTURE
                   sizes. These xml files define the structure of
                   the design for each window.
 
-    Sounds/     - contains resources that are not screen-size or
+    Raw/        - contains resources that are not screen-size or
                   orientation specific.
 
 LICENSE
