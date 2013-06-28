@@ -1,18 +1,9 @@
-        coloring-book-resources-ios r0.1 <http://hackbytes.com>
+        coloring-book-resources-ios r1.0 <http://chompix.com>
 
 This is the submodule repository containing resources used by
 "Coloring Book for iOS."  The master repository can be found at:
 
   http://github.com/byronsanchez/coloring-book-ios
-
-INSTRUCTIONS
-
-  To add this repository to the coloring-book-ios repository as
-  a submodule:
-
-    cd coloring-book-ios
-    git submodule add https://github.com/byronsanchez/coloring-book-resources-ios.git Resources
-    git commit -m 'first commit with submodule coloring-book-resources-ios'
 
 STRUCTURE
 
